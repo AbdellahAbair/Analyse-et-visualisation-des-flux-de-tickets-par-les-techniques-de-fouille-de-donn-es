@@ -4,6 +4,13 @@ This project demonstrate how to use the MongoDB to Spark connector.
 
 The queries are adapted from the [aggregation pipeline example](https://docs.mongodb.com/v3.2/tutorial/aggregation-zip-code-data-set/) from the MongoDB documentation.
 
+Ce projet a pour le but d'analyser et de visualiser le flux d’événements relatifs aux incidents de
+fonctionnement de logiciels, reçus ces dernières années à travers des techniques de fouille de
+données. Ce processus a pour objectif d'extraire une base de connaissance liée aux qualités et
+caractéristiques de ces événements (tickets), distinguer les incidents récurrents, les tickets
+résolus ultra-rapidement, les incidents qui ont pris beaucoup de temps, les tickets
+incompréhensibles.
+
 # How to run:
 
 ## Prerequisite:
